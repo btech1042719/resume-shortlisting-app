@@ -39,3 +39,4 @@
 
 ## Screenshots
 
+<img src="https://github.com/btech1042719/resume-shortlisting-app/blob/main/screenshots/screenshot.png">
